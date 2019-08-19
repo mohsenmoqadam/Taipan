@@ -191,7 +191,7 @@ int get_user_defined_options(int argc, char **argv)
     };
   
   params.argv = argv;
-  while ((opt = getopt_long(argc, argv, "igd", longopts, NULL)) != -1) {
+  while ((opt = getopt_long(argc, argv, "migdcr", longopts, NULL)) != -1) {
     switch (opt) {
     case 'm':
       params.host_ip = argv[optind];
