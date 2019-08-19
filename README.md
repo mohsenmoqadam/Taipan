@@ -11,4 +11,6 @@ sudo ./taipan
 ```
 
 ### Taipan
-![taipan](http://mohsenmoqadam.ir/images/taipan.png)
+<p align="center">
+  ![taipan](http://mohsenmoqadam.ir/images/taipan.png)
+</p>
