@@ -1,0 +1,4 @@
+## Name of the node
+-name srv-stage@srv-stage-ip
+## Cookie for distributed erlang
+-setcookie srv-cookie
